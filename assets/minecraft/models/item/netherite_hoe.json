@@ -1,0 +1,37 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/netherite_hoe"
+    },
+    "overrides": [
+        {"predicate": {"damage": 0.001},"model": "item/bih/kv"},
+        {"predicate": {"damage": 0.002},"model": "item/bih/kve"},
+        {"predicate": {"damage": 0.003},"model": "item/bih/kogn"},
+        {"predicate": {"damage": 0.004},"model": "item/bih/kdojd"},
+        {"predicate": {"damage": 0.005},"model": "item/bih/kzeml"},
+        {"predicate": {"damage": 0.006},"model": "item/bih/ov"},
+        {"predicate": {"damage": 0.007},"model": "item/bih/ove"},
+        {"predicate": {"damage": 0.008},"model": "item/bih/ozdojd"},
+        {"predicate": {"damage": 0.009},"model": "item/bih/ozeml"},
+        {"predicate": {"damage": 0.010},"model": "item/bih/ozogn"},
+        {"predicate": {"damage": 0.011},"model": "item/bih/sv"},
+        {"predicate": {"damage": 0.012},"model": "item/bih/sve"},
+        {"predicate": {"damage": 0.013},"model": "item/bih/szeml"},
+        {"predicate": {"damage": 0.014},"model": "item/bih/sizm"},
+	    {"predicate": {"damage": 0.015},"model": "item/bih/kizm"},
+		{"predicate": {"damage": 0.016},"model": "item/bih/oizm"},
+		{"predicate": {"damage": 0.017},"model": "item/bih/sab"},
+		{"predicate": {"damage": 0.018},"model": "item/bih/kab"},
+		{"predicate": {"damage": 0.019},"model": "item/bih/oab"},
+		{"predicate": {"damage": 0.020},"model": "item/bih/sc"},
+		{"predicate": {"damage": 0.021},"model": "item/bih/kc"},
+		{"predicate": {"damage": 0.022},"model": "item/bih/oc"},
+        {"predicate": {"damage": 0.024},"model": "item/bih/szogn"},
+		{"predicate": {"damage": 0.025},"model": "item/bih/k"},
+		{"predicate": {"damage": 0.026},"model": "item/bih/s"},
+		{"predicate": {"damage": 0.027},"model": "item/bih/o"},
+		{"predicate": {"damage": 0.028},"model": "item/bih/ok"},
+		{"predicate": {"damage": 0.029},"model": "item/bih/os"},
+		{"predicate": {"damaged": 1, "damage": 0}, "model": "item/netherite_hoe"}
+    ]
+}

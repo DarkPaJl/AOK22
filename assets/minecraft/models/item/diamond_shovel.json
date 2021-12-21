@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_shovel"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 16011}, "model": "item/VEDYNIYAposox/16011"},
+		{ "predicate": {"custom_model_data": 16021}, "model": "item/VEDYNIYAposox/16021"},
+		{ "predicate": {"custom_model_data": 16031}, "model": "item/VEDYNIYAposox/16031"},
+		{ "predicate": {"custom_model_data": 16041}, "model": "item/VEDYNIYAposox/16041"},
+		{ "predicate": {"custom_model_data": 16051}, "model": "item/VEDYNIYAposox/16051"},
+		{ "predicate": {"custom_model_data": 16061}, "model": "item/VEDYNIYAposox/16061"},
+		{ "predicate": {"custom_model_data": 16071}, "model": "item/VEDYNIYAposox/16071"},
+		{ "predicate": {"custom_model_data": 16081}, "model": "item/VEDYNIYAposox/16081"},
+		{ "predicate": {"custom_model_data": 16091}, "model": "item/VEDYNIYAposox/16091"},
+		{ "predicate": {"custom_model_data": 16101}, "model": "item/VEDYNIYAposox/16101"},
+		{ "predicate": {"custom_model_data": 16111}, "model": "item/VEDYNIYAposox/16111"},
+		{ "predicate": {"custom_model_data": 16121}, "model": "item/VEDYNIYAposox/16121"},
+		{ "predicate": {"custom_model_data": 16131}, "model": "item/VEDYNIYAposox/16131"},
+		{ "predicate": {"custom_model_data": 16141}, "model": "item/VEDYNIYAposox/16141"}
+	]
+}

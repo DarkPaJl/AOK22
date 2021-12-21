@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_horse_armor"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 17011}, "model": "item/KANONIRmusket/17011"},
+		{ "predicate": {"custom_model_data": 17021}, "model": "item/KANONIRmusket/17021"},
+		{ "predicate": {"custom_model_data": 17031}, "model": "item/KANONIRmusket/17031"},
+		{ "predicate": {"custom_model_data": 17041}, "model": "item/KANONIRmusket/17041"},
+		{ "predicate": {"custom_model_data": 17051}, "model": "item/KANONIRmusket/17051"},
+		{ "predicate": {"custom_model_data": 17061}, "model": "item/KANONIRmusket/17061"},
+		{ "predicate": {"custom_model_data": 17071}, "model": "item/KANONIRmusket/17071"},
+		{ "predicate": {"custom_model_data": 17081}, "model": "item/KANONIRmusket/17081"},
+		{ "predicate": {"custom_model_data": 17091}, "model": "item/KANONIRmusket/17091"},
+		{ "predicate": {"custom_model_data": 17101}, "model": "item/KANONIRmusket/17101"},
+		{ "predicate": {"custom_model_data": 17111}, "model": "item/KANONIRmusket/17111"},
+		{ "predicate": {"custom_model_data": 17121}, "model": "item/KANONIRmusket/17121"},
+		{ "predicate": {"custom_model_data": 17131}, "model": "item/KANONIRmusket/17131"},
+		{ "predicate": {"custom_model_data": 17141}, "model": "item/KANONIRmusket/17141"}
+	]
+}

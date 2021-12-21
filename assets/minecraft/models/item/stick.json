@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 11012}, "model": "item/MECHNIKkopie/11012"},
+		{ "predicate": {"custom_model_data": 11022}, "model": "item/MECHNIKkopie/11022"},
+		{ "predicate": {"custom_model_data": 11032}, "model": "item/MECHNIKkopie/11032"},
+		{ "predicate": {"custom_model_data": 11042}, "model": "item/MECHNIKkopie/11042"},
+		{ "predicate": {"custom_model_data": 11052}, "model": "item/MECHNIKkopie/11052"},
+		{ "predicate": {"custom_model_data": 11062}, "model": "item/MECHNIKkopie/11062"},
+		{ "predicate": {"custom_model_data": 11072}, "model": "item/MECHNIKkopie/11072"},
+		{ "predicate": {"custom_model_data": 11082}, "model": "item/MECHNIKkopie/11082"},
+		{ "predicate": {"custom_model_data": 11092}, "model": "item/MECHNIKkopie/11092"},
+		{ "predicate": {"custom_model_data": 11102}, "model": "item/MECHNIKkopie/11102"},
+		{ "predicate": {"custom_model_data": 11112}, "model": "item/MECHNIKkopie/11112"},
+		{ "predicate": {"custom_model_data": 11122}, "model": "item/MECHNIKkopie/11122"},
+		{ "predicate": {"custom_model_data": 11132}, "model": "item/MECHNIKkopie/11132"},
+		{ "predicate": {"custom_model_data": 11142}, "model": "item/MECHNIKkopie/11142"}
+	]
+}

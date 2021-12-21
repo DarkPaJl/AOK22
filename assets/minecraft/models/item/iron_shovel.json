@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_shovel"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 14011}, "model": "item/CHARAposox/14011"},
+		{ "predicate": {"custom_model_data": 14021}, "model": "item/CHARAposox/14021"},
+		{ "predicate": {"custom_model_data": 14031}, "model": "item/CHARAposox/14031"},
+		{ "predicate": {"custom_model_data": 14041}, "model": "item/CHARAposox/14041"},
+		{ "predicate": {"custom_model_data": 14051}, "model": "item/CHARAposox/14051"},
+		{ "predicate": {"custom_model_data": 14061}, "model": "item/CHARAposox/14061"},
+		{ "predicate": {"custom_model_data": 14071}, "model": "item/CHARAposox/14071"},
+		{ "predicate": {"custom_model_data": 14081}, "model": "item/CHARAposox/14081"},
+		{ "predicate": {"custom_model_data": 14091}, "model": "item/CHARAposox/14091"},
+		{ "predicate": {"custom_model_data": 14101}, "model": "item/CHARAposox/14101"},
+		{ "predicate": {"custom_model_data": 14111}, "model": "item/CHARAposox/14111"},
+		{ "predicate": {"custom_model_data": 14121}, "model": "item/CHARAposox/14121"},
+		{ "predicate": {"custom_model_data": 14131}, "model": "item/CHARAposox/14131"},
+		{ "predicate": {"custom_model_data": 14141}, "model": "item/CHARAposox/14141"}
+	]
+}

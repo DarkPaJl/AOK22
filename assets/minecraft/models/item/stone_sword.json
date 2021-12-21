@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_sword"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 11011}, "model": "item/MECHNIKmechn/11011"},
+		{ "predicate": {"custom_model_data": 11021}, "model": "item/MECHNIKmechn/11021"},
+		{ "predicate": {"custom_model_data": 11031}, "model": "item/MECHNIKmechn/11031"},
+		{ "predicate": {"custom_model_data": 11041}, "model": "item/MECHNIKmechn/11041"},
+		{ "predicate": {"custom_model_data": 11051}, "model": "item/MECHNIKmechn/11051"},
+		{ "predicate": {"custom_model_data": 11061}, "model": "item/MECHNIKmechn/11061"},
+		{ "predicate": {"custom_model_data": 11071}, "model": "item/MECHNIKmechn/11071"},
+		{ "predicate": {"custom_model_data": 11081}, "model": "item/MECHNIKmechn/11081"},
+		{ "predicate": {"custom_model_data": 11091}, "model": "item/MECHNIKmechn/11091"},
+		{ "predicate": {"custom_model_data": 11101}, "model": "item/MECHNIKmechn/11101"},
+		{ "predicate": {"custom_model_data": 11111}, "model": "item/MECHNIKmechn/11111"},
+		{ "predicate": {"custom_model_data": 11121}, "model": "item/MECHNIKmechn/11121"},
+		{ "predicate": {"custom_model_data": 11131}, "model": "item/MECHNIKmechn/11131"},
+		{ "predicate": {"custom_model_data": 11141}, "model": "item/MECHNIKmechn/11141"}
+	]
+}

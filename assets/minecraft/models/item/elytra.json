@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/elytra"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 2},"model": "item/art/ang"},
+        { "predicate": {"custom_model_data": 3},"model": "item/art/dem"},
+        { "predicate": {"custom_model_data": 5},"model": "item/art/hao"}
+    ]
+}

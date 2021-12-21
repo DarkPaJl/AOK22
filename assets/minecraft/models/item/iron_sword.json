@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 12011}, "model": "item/PALADINmech/12011"},
+		{ "predicate": {"custom_model_data": 12021}, "model": "item/PALADINmech/12021"},
+		{ "predicate": {"custom_model_data": 12031}, "model": "item/PALADINmech/12031"},
+		{ "predicate": {"custom_model_data": 12041}, "model": "item/PALADINmech/12041"},
+		{ "predicate": {"custom_model_data": 12051}, "model": "item/PALADINmech/12051"},
+		{ "predicate": {"custom_model_data": 12061}, "model": "item/PALADINmech/12061"},
+		{ "predicate": {"custom_model_data": 12071}, "model": "item/PALADINmech/12071"},
+		{ "predicate": {"custom_model_data": 12081}, "model": "item/PALADINmech/12081"},
+		{ "predicate": {"custom_model_data": 12091}, "model": "item/PALADINmech/12091"},
+		{ "predicate": {"custom_model_data": 12101}, "model": "item/PALADINmech/12101"},
+		{ "predicate": {"custom_model_data": 12111}, "model": "item/PALADINmech/12111"},
+		{ "predicate": {"custom_model_data": 12121}, "model": "item/PALADINmech/12121"},
+		{ "predicate": {"custom_model_data": 12131}, "model": "item/PALADINmech/12131"},
+		{ "predicate": {"custom_model_data": 12141}, "model": "item/PALADINmech/12141"}
+	]
+}

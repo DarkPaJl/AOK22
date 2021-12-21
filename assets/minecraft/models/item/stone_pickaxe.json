@@ -1,0 +1,19 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/stone_pickaxe"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/bih/ov"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/bih/ove"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/bih/ozdojd"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/bih/ozeml"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/bih/ozogn"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/bih/oizm"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/bih/oab"},
+		{ "predicate": {"custom_model_data": 8}, "model": "item/bih/oc"},
+		{ "predicate": {"custom_model_data": 9}, "model": "item/bih/o"},
+		{ "predicate": {"custom_model_data": 10}, "model": "item/bih/ojascv"},
+		{ "predicate": {"custom_model_data": 11}, "model": "item/bih/ojaimpr"}
+    ]
+}
